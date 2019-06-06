@@ -8,3 +8,8 @@ def toadstool
 
   puts status
 end
+
+def link
+  blergh = "It's Dangerous To Go Alone! Take This.\n"
+  puts blergh
+end
